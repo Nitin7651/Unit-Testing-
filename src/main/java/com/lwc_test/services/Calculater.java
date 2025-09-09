@@ -6,8 +6,8 @@ public class Calculater {
         return a + b;
     }
 
-    public static int productTwoNumbers(int c, int b) {
-        return c * b;
+    public static int productTwoNumbers(int a, int b) {
+        return a * b;
     }
 
     public static double divideTwoNumbers(int a, int b) {
